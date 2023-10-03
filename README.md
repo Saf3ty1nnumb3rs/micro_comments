@@ -6,7 +6,7 @@ This repository contains a lightweight Node.js service for practicing micro-serv
 
 ## Setup
 
-1. Clone the repository: `git clone https://github.com/user/repo.git`
+1. Clone the repository: `git clone https://github.com/Saf3ty1nnumb3rs/micro_comments.git`
 2. Install dependencies: `npm install`
 3. Start the service: `npm start`
 
